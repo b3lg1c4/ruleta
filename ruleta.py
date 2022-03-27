@@ -300,7 +300,7 @@ class Ruleta:
             parametros["apuesta"] = randint(1,11)
         
         elif parametros["jugada"] == "CUADRO":
-            n = randint(3,33)
+            n = randint(2,33)
             parametros["apuesta"] = [[n,n+3],[n-1,n+2]]
 
         return parametros

@@ -46,5 +46,5 @@ ruleta.tirar(tirada3)
 | COLUMNA     | n(1-3)                |
 | MITAD       | n(1-2)                |
 | LINEA       | n(1-11)               |
-| CUADRO      | [[n,n+3],[n-,n+2]]    |
+| CUADRO      | [[n,n+3],[n-1,n+2]]   |
 | 0-1-2-3     | None                  |
